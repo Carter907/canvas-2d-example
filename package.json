@@ -1,0 +1,27 @@
+{
+  "name": "rolling-ball",
+  "version": "1.0.0",
+  "description": "2d example of a rolling ball going back and forth with a js canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carter907/canvas-2d-example.git"
+  },
+  "keywords": [
+    "2D",
+    "game",
+    "canvas"
+  ],
+  "author": "Carter S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Carter907/canvas-2d-example/issues"
+  },
+  "homepage": "https://github.com/Carter907/2d-canvas-example#readme",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
